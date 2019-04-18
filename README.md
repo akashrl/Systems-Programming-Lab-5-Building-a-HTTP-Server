@@ -1,4 +1,4 @@
-# Lab-5-Building-a-HTTP-Server
+# Building-a-HTTP-Server
 
 The iterative HTTP server implements the following algorithm:
 1. Open Passive Socket.
