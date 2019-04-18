@@ -1,0 +1,2830 @@
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master 64bc2fc] Commit
+ 1 file changed, 146 insertions(+), 1 deletion(-)
+[master ef65788] Commit
+ 1 file changed, 3 insertions(+)
+[master 40f02cd] Commit
+ 1 file changed, 274 insertions(+), 35 deletions(-)
+[master 7296682] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	myhttpd.cc.orig
+	myhttpd.cc.working
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master fa11761] Commit
+ 1 file changed, 11 insertions(+), 7 deletions(-)
+[master 2ec004d] Commit
+ 1 file changed, 1 insertion(+)
+[master ad277b7] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 25b096b] Commit
+ 1 file changed, 16 insertions(+)
+[master 2b42bce] Commit
+ 1 file changed, 19 insertions(+)
+[master 9b06504] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 881f195] Commit
+ 1 file changed, 1 insertion(+)
+[master 4651967] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master e4ee6b6] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master f026b12] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 625a42e] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f2eea2e] Commit
+ 1 file changed, 1 insertion(+)
+[master 7da1359] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 20b477b] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ef73faf] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 92532f1] Commit
+ 1 file changed, 1 insertion(+)
+[master 3fc8d1b] Commit
+ 1 file changed, 1 insertion(+)
+[master ae6395b] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 01afecf] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 90da65a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f228c7a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c8bb631] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 91ae3e9] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a8534b3] Commit
+ 1 file changed, 1 insertion(+)
+[master c901279] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master bdb81f9] Commit
+ 1 file changed, 24 insertions(+), 31 deletions(-)
+[master c2b6d0c] Commit
+ 1 file changed, 9 insertions(+)
+ create mode 100644 sort.h
+[master fcba71b] Commit
+ 1 file changed, 5 insertions(+)
+[master 25640c5] Commit
+ 1 file changed, 6 insertions(+)
+ create mode 100644 modules.h
+[master 48508a0] Commit
+ 1 file changed, 50 insertions(+)
+[master 76a9b58] Commit
+ 1 file changed, 1 insertion(+)
+[master ee8707d] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5544857] Commit
+ 1 file changed, 24 insertions(+)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master ad324eb] Commit
+ 1 file changed, 5 insertions(+)
+[master 63ab98f] Commit
+ 1 file changed, 6 insertions(+)
+[master 9d7f323] Commit
+ 1 file changed, 13 insertions(+), 1 deletion(-)
+[master 5fd1473] Commit
+ 1 file changed, 5 insertions(+)
+[master 55c40dd] Commit
+ 1 file changed, 12 insertions(+), 1 deletion(-)
+[master 1076383] Commit
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+[master 3f2bb68] Commit
+ 1 file changed, 6 insertions(+), 1 deletion(-)
+[master 22a4695] Commit
+ 1 file changed, 5 insertions(+)
+[master cf8f70d] Commit
+ 1 file changed, 2 insertions(+)
+[master 9654bb9] Commit
+ 1 file changed, 6 insertions(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master fdd3331] Commit
+ 1 file changed, 48 insertions(+)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master 0bbb1cc] Commit
+ 1 file changed, 40 insertions(+)
+[master bdc7115] Commit
+ 1 file changed, 4 insertions(+)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+
+nothing added to commit but untracked files present
+[master a15fa67] Commit
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+[master 825761e] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 961420d] Commit
+ 1 file changed, 1 insertion(+)
+[master 8c9fb7f] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 69cfe91] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 06a8db9] Commit
+ 1 file changed, 4 insertions(+)
+[master f0ffc4d] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 593a2ea] Commit
+ 1 file changed, 1 insertion(+)
+[master e333244] Commit
+ 1 file changed, 1 insertion(+)
+[master dfe1e51] Commit
+ 1 file changed, 2 insertions(+)
+[master 4a40c62] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 262a13b] Commit
+ 1 file changed, 1 insertion(+)
+[master 7def9ea] Commit
+ 1 file changed, 2 deletions(-)
+[master 089fa3b] Commit
+ 1 file changed, 3 insertions(+)
+[master 0e4ade6] Commit
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+[master 12c9b91] Commit
+ 1 file changed, 1 insertion(+)
+[master 1ee1f76] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master ab8028e] Commit
+ 1 file changed, 1 insertion(+)
+[master d74aa35] Commit
+ 1 file changed, 1 insertion(+)
+[master 7d7e3bd] Commit
+ 1 file changed, 1 insertion(+)
+[master e0a59a4] Commit
+ 1 file changed, 4 insertions(+)
+[master 9bbe711] Commit
+ 1 file changed, 2 insertions(+)
+[master 8a7e5f8] Commit
+ 1 file changed, 1 insertion(+)
+[master cd673db] Commit
+ 1 file changed, 2 insertions(+)
+[master 394006b] Commit
+ 1 file changed, 2 insertions(+)
+[master ae87be0] Commit
+ 1 file changed, 2 insertions(+)
+[master fd71257] Commit
+ 1 file changed, 4 insertions(+)
+[master 88b70b0] Commit
+ 1 file changed, 1 insertion(+)
+[master 6c88489] Commit
+ 1 file changed, 2 insertions(+)
+[master 933f4b7] Commit
+ 1 file changed, 2 insertions(+)
+[master 3152ff8] Commit
+ 1 file changed, 3 insertions(+)
+[master 673e0b5] Commit
+ 1 file changed, 3 insertions(+)
+[master 4431aa7] Commit
+ 1 file changed, 2 insertions(+)
+[master 3a759a4] Commit
+ 1 file changed, 2 insertions(+)
+[master 020e7a4] Commit
+ 1 file changed, 2 insertions(+)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master 75341a0] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b301a33] Commit
+ 1 file changed, 2 insertions(+)
+[master aab9358] Commit
+ 1 file changed, 3 insertions(+)
+[master d46f625] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2c32bc3] Commit
+ 1 file changed, 5 insertions(+)
+[master 0451db4] Commit
+ 1 file changed, 1 insertion(+)
+[master 6013115] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 27483fb] Commit
+ 1 file changed, 6 insertions(+)
+[master 039cd8d] Commit
+ 1 file changed, 2 insertions(+)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master ba9badb] Commit
+ 1 file changed, 1 insertion(+)
+[master b8b88a7] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 24ff18f] Commit
+ 1 file changed, 2 insertions(+)
+[master 4849675] Commit
+ 1 file changed, 2 insertions(+)
+[master 34a3ec4] Commit
+ 1 file changed, 1 insertion(+)
+[master 7c478db] Commit
+ 1 file changed, 2 insertions(+)
+[master 60178dd] Commit
+ 1 file changed, 1 insertion(+)
+[master 7f5a5f2] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7b867e6] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9d81696] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d87f5d1] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b22dc5b] Commit
+ 1 file changed, 3 insertions(+)
+[master 30ebfd9] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6603c3b] Commit
+ 1 file changed, 2 insertions(+)
+[master 2cdd291] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 888b8dc] Commit
+ 1 file changed, 2 insertions(+)
+[master ca2598a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f648141] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8e1abd3] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e51545c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4bf42cf] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e5a1433] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master 6a95405] Commit
+ 1 file changed, 3 insertions(+)
+[master 0f867d5] Commit
+ 1 file changed, 1 insertion(+)
+[master a13e4ed] Commit
+ 1 file changed, 1 insertion(+)
+[master 24b59c4] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 11b9901] Commit
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+[master 753dfda] Commit
+ 1 file changed, 2 insertions(+)
+[master 2dfbd26] Commit
+ 1 file changed, 1 insertion(+)
+[master 14a6019] Commit
+ 1 file changed, 1 insertion(+)
+[master 92083ec] Commit
+ 1 file changed, 2 insertions(+)
+[master 37e113c] Commit
+ 1 file changed, 1 insertion(+)
+[master a66b060] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e7fe40b] Commit
+ 1 file changed, 4 insertions(+)
+[master e96ca1d] Commit
+ 1 file changed, 3 insertions(+)
+[master d570ba5] Commit
+ 1 file changed, 1 insertion(+)
+[master c0ae58d] Commit
+ 1 file changed, 1 insertion(+)
+[master e85e85c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master cbc9d16] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 71c5a7b] Commit
+ 1 file changed, 2 insertions(+)
+[master f63ff45] Commit
+ 1 file changed, 3 insertions(+)
+[master 2d326ca] Commit
+ 1 file changed, 1 insertion(+)
+[master 1b38692] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0a431f7] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4cc4838] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8f6f0b7] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6fb68bc] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a4ef6aa] Commit
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master 2bf58d8] Commit
+ 1 file changed, 5 insertions(+)
+[master a249b6f] Commit
+ 1 file changed, 2 insertions(+)
+[master 3005eb6] Commit
+ 1 file changed, 2 insertions(+)
+[master 10ed6ef] Commit
+ 1 file changed, 1 insertion(+)
+[master 39c1945] Commit
+ 1 file changed, 2 insertions(+)
+[master 0c778dc] Commit
+ 1 file changed, 5 insertions(+)
+[master 4ac0ac5] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ae314a5] Commit
+ 1 file changed, 2 insertions(+)
+[master 83b6dd6] Commit
+ 1 file changed, 1 insertion(+)
+[master 4ed983a] Commit
+ 1 file changed, 3 insertions(+)
+[master c17fef4] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 35f95ec] Commit
+ 1 file changed, 3 insertions(+)
+[master dbad5f0] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9075c7c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 65e4381] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 1190e6b] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master fa30745] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 067cc4f] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b821d9d] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 9a4b0f7] Commit
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+[master 528063e] Commit
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+[master b088b38] Commit
+ 1 file changed, 2 insertions(+)
+[master 87b9174] Commit
+ 1 file changed, 1 insertion(+)
+[master b8b1885] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5f1de85] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master d1f739a] Commit
+ 1 file changed, 4 insertions(+)
+[master 0bcc3a6] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b1f3a5a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 933ac0b] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5dbcfe3] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master be85f51] Commit
+ 1 file changed, 1 insertion(+)
+[master 89d3bbc] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 0767d47] Commit
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+[master 706afab] Commit
+ 1 file changed, 1 insertion(+)
+[master a820edf] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 35e1ec3] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f5a8da9] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master e2003a6] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b53ee2d] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2e36a40] Commit
+ 1 file changed, 4 insertions(+)
+[master fd9d6ef] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b1ef97b] Commit
+ 1 file changed, 20 insertions(+)
+[master e4987fe] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b47f203] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d64d4f7] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 723f8f8] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master de05549] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e72f818] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 261db57] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9fddbb3] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 09ef5fe] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a2a91b9] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 89e87ec] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master 94298b8] Commit
+ 1 file changed, 13 insertions(+)
+[master ba0f609] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5e41518] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6ecba20] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 30985d5] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master bb69487] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 08d9b8b] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9473ec1] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6542b1d] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3513a5a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2621a69] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 367978c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 75ad097] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master bd81989] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 2a25f47] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 56d2042] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f16e0e1] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 965ab96] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6de5522] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 84b095d] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 23c5000] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 95ea5f0] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e308b0f] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master 8158d2e] Commit
+ 1 file changed, 15 insertions(+)
+[master 709231d] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master fce568e] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b0c1cd6] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master dfb6f86] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 262b09b] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 33773aa] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 084b886] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a246159] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d5fbc85] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2113d5e] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 936a04f] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6e81d8c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5c7908a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 64dfc39] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master db97a55] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5d13b9f] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ed941d4] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b0fcbf2] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 567c336] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f384dd5] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 128097b] Commit
+ 1 file changed, 5 insertions(+)
+[master 0982b26] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2b0a216] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 24680aa] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7b4d252] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b810d4b] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 908a7ae] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9e67bd2] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master a38345f] Commit
+ 1 file changed, 2 insertions(+)
+[master 2fb8da5] Commit
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+[master c75e4de] Commit
+ 1 file changed, 494 insertions(+)
+[master 5de0fbb] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 118f691] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 851aaab] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master a5c9546] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master da3cdb0] Commit
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+[master 9635e29] Commit
+ 1 file changed, 2 insertions(+)
+[master a4ee40c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 031531a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9a5229b] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 20b7d89] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d9f0d6f] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4d82705] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3eae224] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 58c9829] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4bf11b2] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d2ae06c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f87d5fc] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2534e3c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6732ecd] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ea91510] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8d41117] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 53c08a0] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5792185] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5a9bd81] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master bee3666] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0acfb7c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 710e47a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 02da10d] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1881c09] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ee6dbd3] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 429884a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master dd2da65] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a6782b6] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8d94529] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7e821bb] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5315383] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 360fdfa] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6c92746] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 96b8b66] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4b2a8a2] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master aacfcaa] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 40c24f2] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e95b9bd] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2025a3c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 226716f] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 309e07f] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2097294] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e673145] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 207aaf7] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d601a6a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5d1e944] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 460fb6a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c9099df] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 549034f] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f7077f3] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d291a22] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 480b74b] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 4ade355] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 3b45c5a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6d2afb5] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ebbf425] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d27e953] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master aa7d7a9] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d02c76f] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f15edfd] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master eb64eb9] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a4bdf74] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c777ef2] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 05cc7f7] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ffd5c6e] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9eaf0c5] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d9b0bb3] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 047538b] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6324b7b] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 10d4296] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e962acb] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 61502bd] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 28b1268] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d87efcd] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c9e8051] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 680c73f] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 28b5d29] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 112b829] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d8ef4e9] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 374f060] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e699e9c] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 0cb6c77] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4984f8d] Commit
+ 1 file changed, 4 insertions(+)
+[master 82be6ea] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master 5a57983] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master c344930] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4c0ad34] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master db07649] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e22eb3a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3f94bb3] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d585432] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4895d39] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 22abf27] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 34fe756] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 344f99e] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 58516e3] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 060f9e3] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 30a5f7a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 80966a5] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 921594a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master dff65ca] Commit
+ 1 file changed, 1 deletion(-)
+[master 84eaf7c] Commit
+ 1 file changed, 107 insertions(+), 486 deletions(-)
+[master 4e1bc36] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master 64a4a9c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 390644d] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 4c2c439] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8d192bd] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a732db6] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9ccbc71] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5a2c37b] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master cb48d56] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9afa20c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 070795c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2e60333] Commit
+ 1 file changed, 1 insertion(+)
+[master 692261b] Commit
+ 1 file changed, 1 insertion(+)
+[master 21a47cc] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c3c7967] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e635c90] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4a804bf] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f5f8bff] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master a92dc75] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7308161] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c3d1106] Commit
+ 1 file changed, 1 insertion(+)
+[master 45cb8dd] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8a158e3] Commit
+ 1 file changed, 3 insertions(+)
+[master 7e31e3c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master bfbd4ac] Commit
+ 1 file changed, 3 insertions(+)
+[master e5a5b44] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a48fbb3] Commit
+ 1 file changed, 2 insertions(+)
+[master 3021248] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9a22647] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3107319] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master de2495c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master fc1ac9c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f31362e] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7932b3f] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a474c29] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d1ef84d] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ff020e9] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master bb47dac] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0f8e91c] Commit
+ 1 file changed, 5 insertions(+)
+[master a83f3e1] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master db7618d] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1ae8e7b] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 446ca0c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master 879a137] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4054e93] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master fbf99d4] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c966d20] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 780799c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 497fde6] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master e1b96a9] Commit
+ 1 file changed, 1 insertion(+)
+[master c149e77] Commit
+ 1 file changed, 1 insertion(+)
+[master 4b65f43] Commit
+ 1 file changed, 3 insertions(+)
+[master ee86df0] Commit
+ 1 file changed, 2 insertions(+)
+[master c5e19a0] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master f53e0ae] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4c492ec] Commit
+ 1 file changed, 4 insertions(+)
+[master e59dc00] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 252b1c6] Commit
+ 1 file changed, 1 insertion(+)
+[master 6e12df3] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ac259b7] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d8a77a5] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a314073] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 608e009] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e009968] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c5bc130] Commit
+ 1 file changed, 2 insertions(+)
+[master ec99566] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 369dee7] Commit
+ 1 file changed, 1 insertion(+)
+[master c54991c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e5c50b5] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b52e0f0] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4c0406e] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f5cfdb9] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8852315] Commit
+ 1 file changed, 1 insertion(+)
+[master ecb0a77] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1ff65b1] Commit
+ 1 file changed, 1 insertion(+)
+[master 4e0c3e4] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ad3bfee] Commit
+ 1 file changed, 1 insertion(+)
+[master b8b36f4] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master ec89f73] Commit
+ 1 file changed, 1 insertion(+)
+[master 34e1095] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b9ddcc8] Commit
+ 1 file changed, 2 insertions(+)
+[master 3fab93a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 181736f] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8781b8b] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5c7c6d8] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 7461727] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1782586] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master e5c5b50] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 10fc8d4] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 256cd5d] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 30ef204] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master f26639c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 71f16ee] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0866fa3] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7ca5f90] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master cf5ae47] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 16520ca] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5cf1366] Commit
+ 1 file changed, 3 insertions(+)
+[master 3fcfdf3] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master e4a9c9e] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 94d5065] Commit
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+[master 042c928] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 5231ea8] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 514ad2c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 73fd201] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 78c5f7d] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b45d664] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 99047fa] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c74020a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9305176] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c43799e] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4db0d0e] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master 169be78] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b37efa6] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master daf8743] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f58812a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8057922] Commit
+ 1 file changed, 1 insertion(+)
+[master a3e030d] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3c0f683] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8e78276] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8f1e0b0] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0ec8fca] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a4ac2d3] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 75864b8] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1344714] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9d924bc] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3f21275] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 068f7e9] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0dbe6b2] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master be789b4] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c8abccf] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 050862b] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 83879f4] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ab2a6a1] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6b0279f] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9107680] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master fb5b10f] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7e33444] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b89bc18] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 02b5784] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1885031] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f47bffd] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 981077a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1eb11bb] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master 67cadbe] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a5b7d4f] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master fc0129e] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c6c6afc] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2b8971a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master aa809c2] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8a43673] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master fac99cb] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5116ca6] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master abad263] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d31c96d] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f96a095] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master addf568] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5a01358] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7275ec0] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master aa811b4] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master da19457] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master eb65043] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master da027f9] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master 713e970] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ebe66ff] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7e2f64a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1c265d3] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master fda5bce] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5630b37] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d7e419c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 81d7691] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 643dfa0] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5e7d32f] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1cf009c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master 2bbb7ab] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d71a094] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ce55e86] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9ef2435] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5f4d2b7] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4f0662c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b295477] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3293f4e] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2c0cd7a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8de80b4] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a5670fc] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0f6ec75] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a5bcfda] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c27a0f7] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 34320b6] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5f4524d] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 24549ce] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master aa77e75] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c42d7a0] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master cd7597a] Commit
+ 1 file changed, 3 insertions(+)
+[master a383540] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8ad5ce8] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f6c8e63] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1513fc6] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e976007] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3165b50] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 933c238] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5e46c92] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7fbe958] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7380006] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e7efa5a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 02d95c0] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1c16fc0] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5a8fd5c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 279d108] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c4ce38b] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master dfdeef7] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master bc7752d] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4a86d1b] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 3ad1d1c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d05111e] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 21c3fa3] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 32dc4ad] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c906dea] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 01827e0] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4a40d03] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9665219] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9c91771] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 17029dd] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b2b358b] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 6b84f59] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master afdbe8f] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 51b2021] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 6f7a61c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b543f35] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3feb657] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e819e68] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7500175] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master 2d77330] Commit
+ 1 file changed, 3 insertions(+)
+[master 8db0a27] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 57046c2] Commit
+ 1 file changed, 4 insertions(+)
+[master 57289ab] Commit
+ 1 file changed, 1 insertion(+)
+[master 323c0ce] Commit
+ 1 file changed, 7 insertions(+), 3 deletions(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master 46c23ef] Commit
+ 1 file changed, 21 insertions(+), 12 deletions(-)
+[master 5d16344] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 49867eb] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master f8eafb8] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 46c717e] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c870de3] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f465952] Commit
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+[master 0e75a6b] Commit
+ 1 file changed, 2 insertions(+)
+[master 5e98692] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master 462e8db] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ac92dae] Commit
+ 1 file changed, 1 insertion(+)
+[master c7bfb7d] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 014519e] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 768a264] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2274645] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 6233f33] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7ef415d] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 31d36b8] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 18a959b] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5575767] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c329048] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master e291c9d] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f94ff50] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 03b3f13] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d23af62] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8978438] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 143e8d3] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5d94267] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 45121b3] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a458c8c] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 83b97d5] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master f72646d] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9c392ee] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master bb98f1d] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master a1e67b2] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f525e7b] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 46ce5f0] Commit
+ 1 file changed, 1 insertion(+)
+[master 4bcaa37] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 4de45a6] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e57c84e] Commit
+ 1 file changed, 62 insertions(+)
+[master 6032ccb] Commit
+ 1 file changed, 2 insertions(+)
+[master e22ab73] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9397ca9] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 115b069] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5892f1c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 19c3f99] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e4b33e4] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ffdc4bf] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1e106c9] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 61934ca] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 352af03] Commit
+ 1 file changed, 1 insertion(+)
+[master 6b7b28e] Commit
+ 1 file changed, 1 insertion(+)
+[master bff2e30] Commit
+ 1 file changed, 2 insertions(+)
+[master 6d3635f] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 61c2127] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b29bbe0] Commit
+ 1 file changed, 2 insertions(+)
+[master 1f40250] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 17cb768] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 61b3b83] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 241a06a] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master eb7215d] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master c81ceac] Commit
+ 1 file changed, 2 insertions(+)
+[master 05edd7a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4dba929] Commit
+ 1 file changed, 6 insertions(+)
+[master f51fcef] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 7b93be0] Commit
+ 1 file changed, 4 insertions(+)
+[master 7766d02] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c0bd54e] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master ef80a97] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master fc56fed] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9f03c77] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 226a5ec] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ff2a978] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 73ddb2e] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 68dcde1] Commit
+ 1 file changed, 1 insertion(+)
+[master 04b206b] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8adf084] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9b0f663] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 11ebc4e] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c6d2287] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master ad25c73] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master f9f1426] Commit
+ 1 file changed, 2 insertions(+)
+[master 5e11cc6] Commit
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+[master f44372f] Commit
+ 1 file changed, 2 insertions(+)
+[master a52c029] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master df47175] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 437ccbf] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 47224ad] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 6678b64] Commit
+ 1 file changed, 3 insertions(+)
+[master e045934] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 59a81a3] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 15aad1f] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 833c1fc] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e992a87] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9e259ae] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d9d6a41] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1eb2f12] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b1f1840] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5b91efb] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1b9424d] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 0d8ac33] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ac4d0da] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 3f20001] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c422de2] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2787676] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 55e26f3] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 2650f24] Commit
+ 1 file changed, 5 insertions(+), 2 deletions(-)
+[master ddc9964] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 95a5d27] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 45a7522] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master a2f1b9d] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 327dd59] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ab78ba1] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4dbd4c5] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a75e133] Commit
+ 1 file changed, 6 insertions(+), 1 deletion(-)
+[master 2d12072] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 12fd6ca] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a89e9d0] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6a8ddb0] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 12a4c7d] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master e422fd6] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1db7277] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0c8786c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7a3a9ab] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master fab8e9e] Commit
+ 1 file changed, 128 deletions(-)
+[master 4b6db44] Commit
+ 1 file changed, 275 insertions(+), 2 deletions(-)
+[master 3a3f741] Commit
+ 1 file changed, 1 insertion(+)
+[master 8ed99dd] Commit
+ 1 file changed, 11 insertions(+)
+[master b9f97e9] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d3fa2a1] Commit
+ 1 file changed, 4 insertions(+)
+[master fe0af4e] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 56b7c0a] Commit
+ 1 file changed, 2 insertions(+)
+[master 300c737] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 2e8d2c5] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 895f840] Commit
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+[master c4b20e3] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 9f0b198] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 075e535] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 6e682a3] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f451387] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4b9bfca] Commit
+ 1 file changed, 2 insertions(+)
+[master c7682ad] Commit
+ 1 file changed, 18 insertions(+)
+[master bc7f7c5] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master d43d2d3] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master c9876e2] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master f0576ec] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 58e68e6] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 0a32bfc] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master b5c261e] Commit
+ 1 file changed, 2 insertions(+)
+[master 991ad66] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 318f115] Commit
+ 1 file changed, 6 insertions(+)
+[master edffcf0] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 10d803c] Commit
+ 1 file changed, 2 insertions(+)
+[master 355c71b] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master cba133a] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 1ebc0ee] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 8e2a86b] Commit
+ 1 file changed, 3 insertions(+)
+[master 760bb2b] Commit
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+[master cde5985] Commit
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+[master ecf335a] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 2cb0a63] Commit
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+[master 1050a31] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 8729c73] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f2e9652] Commit
+ 1 file changed, 2 insertions(+)
+[master ce48235] Commit
+ 1 file changed, 3 insertions(+)
+[master ae029bc] Commit
+ 1 file changed, 6 insertions(+)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master ac8c315] Commit
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+[master 36d802f] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master fa3e158] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2fb227c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6646344] Commit
+ 1 file changed, 3 insertions(+)
+[master 4565fe9] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master aa1d1ae] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4fb7283] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 9a0137b] Commit
+ 1 file changed, 4 insertions(+)
+[master e4b8cdc] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 8165fad] Commit
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+[master 429e720] Commit
+ 1 file changed, 4 insertions(+)
+[master 79b2ee0] Commit
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master c27d71f] Commit
+ 1 file changed, 18 insertions(+)
+[master b194e26] Commit
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+[master ca784ed] Commit
+ 1 file changed, 6 insertions(+)
+[master 9e71af5] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master d119e06] Commit
+ 1 file changed, 2 insertions(+)
+[master 1fadf70] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7f5721b] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c868245] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master af835af] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master e78a3ab] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7f0fecc] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 996024e] Commit
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+[master aca2612] Commit
+ 1 file changed, 10 insertions(+)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master c8ff163] Commit
+ 1 file changed, 1 insertion(+)
+[master 45861ed] Commit
+ 1 file changed, 8 insertions(+)
+[master 1796939] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master dc1cad9] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 0cf7471] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 20c13d4] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 2f5251e] Commit
+ 1 file changed, 3 insertions(+)
+[master 11252be] Commit
+ 1 file changed, 2 insertions(+)
+[master 5537503] Commit
+ 1 file changed, 3 insertions(+)
+[master c204f58] Commit
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+[master a9252a5] Commit
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+[master 569d103] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master a85c0e0] Commit
+ 1 file changed, 16 insertions(+)
+[master c8f3761] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master dd3f2b8] Commit
+ 1 file changed, 4 insertions(+)
+[master 4d7b6b9] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 1efa69a] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master e0284ba] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 98e1f21] Commit
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+[master bd2964f] Commit
+ 1 file changed, 3 insertions(+)
+[master 12ff433] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 71c17e8] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 02cd155] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3412ef9] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 726a582] Commit
+ 1 file changed, 2 insertions(+)
+[master 7b68ef5] Commit
+ 1 file changed, 2 insertions(+)
+[master e1b5752] Commit
+ 1 file changed, 2 insertions(+)
+[master 2b2bc65] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master ac59e09] Commit
+ 1 file changed, 3 insertions(+)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master 02ae70a] Commit
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+[master a15f119] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 75ff15a] Commit
+ 1 file changed, 1 deletion(-)
+[master 0a4a636] Commit
+ 1 file changed, 15 insertions(+)
+[master 1340f32] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 2eea4da] Commit
+ 1 file changed, 1 insertion(+), 3 deletions(-)
+[master 3e964a3] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 3e6d748] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 899719a] Commit
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+[master 09754b3] Commit
+ 1 file changed, 5 insertions(+)
+[master ad23989] Commit
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+[master aace5a8] Commit
+ 1 file changed, 2 insertions(+)
+[master 3f32600] Commit
+ 1 file changed, 5 insertions(+)
+[master 1f07edf] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master bdbab0d] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 0618048] Commit
+ 1 file changed, 6 insertions(+), 1 deletion(-)
+[master b9e82c0] Commit
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+[master 5804c52] Commit
+ 1 file changed, 9 insertions(+), 1 deletion(-)
+[master 6ae43ce] Commit
+ 1 file changed, 13 insertions(+)
+[master 5f4220e] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 8bb14c3] Commit
+ 1 file changed, 3 insertions(+)
+[master ed0f566] Commit
+ 1 file changed, 2 insertions(+)
+[master 0f0cbf1] Commit
+ 1 file changed, 3 insertions(+)
+[master 4d620f4] Commit
+ 1 file changed, 3 insertions(+)
+[master e3644f1] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4717990] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 87daa81] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 06a914d] Commit
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+[master 9893759] Commit
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+[master 1d0a43d] Commit
+ 1 file changed, 1 deletion(-)
+[master 71db73a] Commit
+ 1 file changed, 9 insertions(+)
+[master 4d816f2] Commit
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+[master 01a4e8f] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 311bd24] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master bcd9c33] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2404b39] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5f1ec28] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6314700] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ad44d23] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7f590ca] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master bfef0ab] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 60c4574] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7c95e90] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master dd3a4c2] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 915e84e] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 7d1106d] Commit
+ 1 file changed, 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master d227883] Commit
+ 1 file changed, 23 insertions(+), 182 deletions(-)
+[master cd00d20] Commit
+ 1 file changed, 1 insertion(+), 31 deletions(-)
+[master 1719a81] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 2c2859f] Commit
+ 1 file changed, 4 insertions(+)
+[master b8c2aa6] Commit
+ 1 file changed, 3 insertions(+)
+[master 0d23c9b] Commit
+ 1 file changed, 6 insertions(+)
+[master d8efc19] Commit
+ 1 file changed, 2 insertions(+)
+[master 8d69fa2] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 23a644b] Commit
+ 1 file changed, 2 insertions(+)
+[master d0d3e02] Commit
+ 1 file changed, 2 insertions(+)
+[master 28a5cdd] Commit
+ 1 file changed, 4 insertions(+)
+[master 2dd3399] Commit
+ 1 file changed, 5 insertions(+), 4 deletions(-)
+[master ab4f572] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master e5880d9] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1f2fc26] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 71fe060] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d858cf1] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3da541d] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 434c8c8] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2be0e21] Commit
+ 1 file changed, 1 insertion(+)
+[master daa80d8] Commit
+ 1 file changed, 2 insertions(+)
+[master 1bc78cb] Commit
+ 1 file changed, 1 insertion(+)
+[master 6bb6042] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master 65b9191] Commit
+ 1 file changed, 162 insertions(+)
+ create mode 100644 write.h
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	test-post.html
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master a94bc75] Commit
+ 1 file changed, 4 insertions(+), 9 deletions(-)
+[master cb80992] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 46e1dc0] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1792e02] Commit
+ 1 file changed, 1 insertion(+)
+[master f54a953] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 1b34481] Commit
+ 1 file changed, 2 insertions(+)
+[master c8707cb] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master a83f130] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0213557] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	test-post.html
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	test-post.html
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.working
+	myhttpd.o
+	test-post.html
+
+nothing added to commit but untracked files present
+[master 0dac3e8] Commit
+ 1 file changed, 1377 deletions(-)
+ delete mode 100644 myhttpd.cc
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.sub
+	myhttpd.cc.working
+	myhttpd.cpp
+	test-post.html
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.sub
+	myhttpd.cc.working
+	myhttpd.cpp
+	myhttpd.o
+	test-post.html
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.sub
+	myhttpd.cc.working
+	myhttpd.cpp
+	myhttpd.o
+	test-post.html
+
+nothing added to commit but untracked files present
+[master b740028] Commit
+ 1 file changed, 1 insertion(+)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.sub
+	myhttpd.cc.working
+	myhttpd.cpp
+	myhttpd.o
+	test-post.html
+
+nothing added to commit but untracked files present
+[master cbd7d97] Commit
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ mode change 100644 => 100755 Makefile
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server.o
+	hello.o
+	hello.so
+	myhttpd.cc.orig
+	myhttpd.cc.pt1
+	myhttpd.cc.sub
+	myhttpd.cc.working
+	myhttpd.cpp
+	myhttpd.o
+	test-post.html
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+[master 0e27f91] Commit
+ 6 files changed, 8 insertions(+), 6 deletions(-)
+ mode change 100644 => 100755 hello.cc
+ mode change 100644 => 100755 use-dlopen.cc
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	daytime-server
+	daytime-server.o
+	hello.o
+	hello.so
+	http-root-dir/cgi-bin/imagemap
+	http-root-dir/cgi-bin/jj
+	http-root-dir/cgi-bin/phf
+	http-root-dir/cgi-bin/post-query
+	http-root-dir/cgi-bin/query
+	http-root-dir/cgi-src/imagemap.o
+	http-root-dir/cgi-src/jj.o
+	http-root-dir/cgi-src/phf.o
+	http-root-dir/cgi-src/post-query.o
+	http-root-dir/cgi-src/query.o
+	http-root-dir/cgi-src/util.o
+	http-root-dir/htdocs/fork.txt
+	http-root-dir/htdocs/ftime.txt
+	http-root-dir/htdocs/logs.html
+	http-root-dir/htdocs/stats.html
+	myhttpd
+	myhttpd.cpp
+	myhttpd.o
+	oldfiles/
+	test-post.html
+	use-dlopen
+	use-dlopen.o
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myhttpd.cc.swp
+	http-root-dir/cgi-bin/imagemap
+	http-root-dir/cgi-bin/jj
+	http-root-dir/cgi-bin/phf
+	http-root-dir/cgi-bin/post-query
+	http-root-dir/cgi-bin/query
+	http-root-dir/cgi-src/imagemap.o
+	http-root-dir/cgi-src/jj.o
+	http-root-dir/cgi-src/phf.o
+	http-root-dir/cgi-src/post-query.o
+	http-root-dir/cgi-src/query.o
+	http-root-dir/cgi-src/util.o
+	http-root-dir/htdocs/fork.txt
+	http-root-dir/htdocs/ftime.txt
+	http-root-dir/htdocs/logs.html
+	http-root-dir/htdocs/stats.html
+	myhttpd.cpp
+	oldfiles/
+	test-post.html
+
+nothing added to commit but untracked files present
